@@ -1,0 +1,11 @@
+C:\KaotiK\src\KaotiK.GraphQL\KaotiK.GraphQL\bin\Debug\netcoreapp2.0\KaotiK.GraphQL.deps.json
+C:\KaotiK\src\KaotiK.GraphQL\KaotiK.GraphQL\bin\Debug\netcoreapp2.0\KaotiK.GraphQL.runtimeconfig.json
+C:\KaotiK\src\KaotiK.GraphQL\KaotiK.GraphQL\bin\Debug\netcoreapp2.0\KaotiK.GraphQL.runtimeconfig.dev.json
+C:\KaotiK\src\KaotiK.GraphQL\KaotiK.GraphQL\bin\Debug\netcoreapp2.0\KaotiK.GraphQL.dll
+C:\KaotiK\src\KaotiK.GraphQL\KaotiK.GraphQL\obj\Debug\netcoreapp2.0\KaotiK.GraphQL.csprojResolveAssemblyReference.cache
+C:\KaotiK\src\KaotiK.GraphQL\KaotiK.GraphQL\obj\Debug\netcoreapp2.0\KaotiK.GraphQL.csproj.CoreCompileInputs.cache
+C:\KaotiK\src\KaotiK.GraphQL\KaotiK.GraphQL\obj\Debug\netcoreapp2.0\KaotiK.GraphQL.AssemblyInfoInputs.cache
+C:\KaotiK\src\KaotiK.GraphQL\KaotiK.GraphQL\obj\Debug\netcoreapp2.0\KaotiK.GraphQL.AssemblyInfo.cs
+C:\KaotiK\src\KaotiK.GraphQL\KaotiK.GraphQL\bin\Debug\netcoreapp2.0\KaotiK.GraphQL.pdb
+C:\KaotiK\src\KaotiK.GraphQL\KaotiK.GraphQL\obj\Debug\netcoreapp2.0\KaotiK.GraphQL.dll
+C:\KaotiK\src\KaotiK.GraphQL\KaotiK.GraphQL\obj\Debug\netcoreapp2.0\KaotiK.GraphQL.pdb
